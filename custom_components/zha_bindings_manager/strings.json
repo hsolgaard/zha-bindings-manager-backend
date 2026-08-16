@@ -1,0 +1,13 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Add ZHA Bindings Manager Backend",
+        "description": "Optional persistent storage for the ZHA Bindings Manager card. Nothing to configure — this just makes shared storage available; the card will offer to use it the next time it loads. You can remove this integration later without losing anything saved locally in your browser."
+      }
+    },
+    "abort": {
+      "already_configured": "ZHA Bindings Manager Backend is already set up. Only one instance is needed."
+    }
+  }
+}

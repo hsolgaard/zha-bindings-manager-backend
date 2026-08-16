@@ -1,0 +1,12 @@
+{
+  "domain": "zha_bindings_manager",
+  "name": "ZHA Bindings Manager Backend",
+  "codeowners": ["@hsolgaard"],
+  "config_flow": true,
+  "documentation": "https://github.com/hsolgaard/zha-bindings-manager-backend",
+  "issue_tracker": "https://github.com/hsolgaard/zha-bindings-manager-backend/issues",
+  "iot_class": "local_push",
+  "requirements": [],
+  "single_config_entry": true,
+  "version": "0.1.0"
+}
