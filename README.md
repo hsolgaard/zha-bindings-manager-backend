@@ -81,8 +81,6 @@ shared storage, note it down (or re-scan) before removing this.
 
 ## Credits
 
-Designed, specified, and tested by [Hans Solgaard](https://github.com/hsolgaard).
+Designed, specified, and tested by [H Solgaard](https://github.com/hsolgaard).
 Development assisted by [Claude](https://www.anthropic.com/claude)
-(Anthropic) — code generation and iteration were AI-assisted; the
-requirements, design decisions, and validation against a real Home
-Assistant instance were not.
+(Anthropic).
